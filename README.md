@@ -1,7 +1,7 @@
 # A=B Desugarer
 A syntactic preprocessor that transforms extended A=B source code into its canonical form. For Artless's puzzle game "[A=B](https://store.steampowered.com/app/1720850/AB/)". 
 
-## Spoiler alert!
+## ⚠️ Spoiler alert!
 The mechanics of this preprocessor may hint some solution styles. I recommend learning and using this preprocessor only after level "4-14 Center 2".  
 
 ## It unrolls the wildcard '?'
