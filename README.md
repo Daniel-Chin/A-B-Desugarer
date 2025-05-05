@@ -22,3 +22,16 @@ c|=|c
 - `\?` is replaced with `?`.  
 - `\\` is replaced with `\`.  
 - Other `\`-prefixed strings are invalid.
+
+## Usage
+Start the python script "main.py". Paste your source code in the extended A=B language. Press Ctrl+D to trigger EoF.  
+
+e.g. on Wayland Linux:  
+```fish
+python main.py | wl-copy
+```
+
+e.g. on Windows:  
+```cmd
+python main.py | clip
+```
